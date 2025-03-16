@@ -2,7 +2,7 @@ After a job interview, I realize that I should definitely get some coding in my 
 
 So let's see how this course goes!
 
-**Day 1:** Today we covered foundational concepts like printing, variables, f-strings, tuple unpacking, and commenting. The day also introduced tools like PyCharm and Thonny, emphasized debugging strategies, and culminated in building a fun Band Name Generator project.  
+**[Day 1](https://github.com/autorotink/Udemy/blob/main/Python-Day1.md):** Today we covered foundational concepts like printing, variables, f-strings, tuple unpacking, and commenting. The day also introduced tools like PyCharm and Thonny, emphasized debugging strategies, and culminated in building a fun Band Name Generator project.  
 
 
 
